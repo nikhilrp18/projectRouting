@@ -1,0 +1,96 @@
+/* .header {
+    background-color: rgb(250, 238, 216);
+}
+
+.header img {
+    width: 300px;
+    float: left;
+}
+
+.header li {
+    margin-left: 200px;
+    margin-top: 36px;
+    list-style-type: none;
+    float: left;
+
+}
+
+.header nav::after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+a {
+    font-size: large;
+    color: rgb(121, 90, 52);
+    text-decoration: none;
+    padding: 20px;
+}
+
+a:hover {
+    background-color: rgba(68, 59, 59, 0.514);
+} */
+.form{
+    border: 5px;
+    border-style: solid;
+    border-color: rgba(65, 61, 61, 0.508);
+    border-radius: 20px;
+    width: 600px;
+    height: 500px;
+    margin-left:400px;
+    margin-top: 30px;
+    background-color: rgb(250, 238, 216);
+}
+.form label{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.form .name{
+    width: 300px;
+    height: 50px;
+    margin-left: 110px;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+.form .email{
+    width: 300px;
+    height: 50px;
+    margin-left: 110px;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+.form .contact{
+    width: 300px;
+    height: 50px;
+    margin-left: 66px;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+.form .feedback{
+    width: 300px;
+    height: 150px;
+    margin-left: 60px;
+    margin-top: 30px;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+.form button{
+    margin-left: 420px;
+    width: 100px;
+    height: 45px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+.main{
+    background-color: rgba(244, 237, 224, 0.532);
+}

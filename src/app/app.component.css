@@ -1,0 +1,15 @@
+#nav a {
+    color: darkblue;
+    font-size: large;
+    text-decoration: none;
+
+}
+
+
+#main {
+    background-color: rgba(37, 37, 60, 0.611);
+    border: 3px;
+    border-style: solid;
+    border-color: rgba(57, 38, 142, 0.718);
+    border-radius: 20px;
+}
